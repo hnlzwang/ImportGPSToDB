@@ -3,3 +3,7 @@
 ################################################################################
 
 /ImportGPSToDB/bin/Debug
+/ImportGPSToDB/obj
+/packages
+/.vs/ImportGPSToDB/v15
+/.vs
